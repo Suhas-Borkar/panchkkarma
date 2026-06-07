@@ -245,7 +245,7 @@
               <a class="mega-link" href="<?=base_url('treatments/janu-basti-treatment')?>">Janu Basti</a>
               <a class="mega-link" href="<?=base_url('treatments/kati-basti-treatment')?>">Kati Basti</a>
               <a class="mega-link" href="<?=base_url('treatments/ksheerdhara-treatment')?>">Ksheerdhara</a>
-              <a class="mega-link" href="<?=base_url('treatments/lekan-basti-treatment')?>">Lekhan Basti</a>
+              <a class="mega-link" href="<?=base_url('treatments/lekhan-basti-treatment')?>">Lekhan Basti</a>
             </div>
  
             <!-- Column 3: N – P -->
@@ -300,40 +300,40 @@
             <!-- Column 1: A – C -->
             <div class="mega-col">
               <div class="mega-col-heading">Disease Treatment A – C</div>
-              <a class="mega-link" href="#">Acidity Treatment</a>
-              <a class="mega-link" href="#">Arthritis Treatment – Joint Care</a>
-              <a class="mega-link" href="#">Asthma Treatment</a>
-              <a class="mega-link" href="#">Blood Pressure</a>
-              <a class="mega-link" href="#">Chronic Cold &amp; Cough</a>
+              <a class="mega-link" href="<?=base_url('disease/acidity-treatment')?>">Acidity Treatment</a>
+              <a class="mega-link" href="<?=base_url('disease/arthritis-treatment')?>">Arthritis Treatment – Joint Care</a>
+              <a class="mega-link" href="<?=base_url('disease/asthma-treatment')?>">Asthma Treatment</a>
+              <a class="mega-link" href="<?=base_url('disease/blood-pressure-treatment')?>">Blood Pressure</a>
+              <a class="mega-link" href="<?=base_url('disease/chronic-cold-cough-treatment')?>">Chronic Cold &amp; Cough</a>
             </div>
- 
+
             <!-- Column 2: C – H -->
             <div class="mega-col">
               <div class="mega-col-heading">Disease Treatment C – H</div>
-              <a class="mega-link" href="#">Constipation</a>
-              <a class="mega-link" href="#">Diabetes Treatment</a>
-              <a class="mega-link" href="#">Eye Disease</a>
-              <a class="mega-link" href="#">Hair Fall Treatment</a>
-              <a class="mega-link" href="#">Heart Problems</a>
+              <a class="mega-link" href="<?=base_url('disease/constipation-treatment')?>">Constipation</a>
+              <a class="mega-link" href="<?=base_url('disease/diabetes-treatment')?>">Diabetes Treatment</a>
+              <a class="mega-link" href="<?=base_url('disease/eye-disease-treatment')?>">Eye Disease</a>
+              <a class="mega-link" href="<?=base_url('disease/hair-fall-treatment')?>">Hair Fall Treatment</a>
+              <a class="mega-link" href="<?=base_url('disease/heart-problems-treatment')?>">Heart Problems</a>
             </div>
- 
+
             <!-- Column 3: I – P -->
             <div class="mega-col">
               <div class="mega-col-heading">Disease Treatment I – P</div>
-              <a class="mega-link" href="#">Insomnia</a>
-              <a class="mega-link" href="#">Liver Cleanse</a>
-              <a class="mega-link" href="#">Migraine</a>
-              <a class="mega-link" href="#">Paralysis</a>
-              <a class="mega-link" href="#">Pcos-Pcod Treatment</a>
+              <a class="mega-link" href="<?=base_url('disease/insomnia-treatment')?>">Insomnia</a>
+              <a class="mega-link" href="<?=base_url('disease/liver-cleanse-treatment')?>">Liver Cleanse</a>
+              <a class="mega-link" href="<?=base_url('disease/migraine-treatment')?>">Migraine</a>
+              <a class="mega-link" href="<?=base_url('disease/paralysis-treatment')?>">Paralysis</a>
+              <a class="mega-link" href="<?=base_url('disease/pcos-pcod-treatment')?>">Pcos-Pcod Treatment</a>
             </div>
- 
+
             <!-- Column 4: S – W -->
             <div class="mega-col">
               <div class="mega-col-heading">Disease Treatment S – W</div>
-              <a class="mega-link" href="#">Skin Treatment</a>
-              <a class="mega-link" href="#">Stress Relief Treatment</a>
-              <a class="mega-link" href="#">Thyroid Treatment</a>
-              <a class="mega-link" href="#">Weight Loss Treatment</a>
+              <a class="mega-link" href="<?=base_url('disease/skin-treatment')?>">Skin Treatment</a>
+              <a class="mega-link" href="<?=base_url('disease/stress-relief-treatment')?>">Stress Relief Treatment</a>
+              <a class="mega-link" href="<?=base_url('disease/thyroid-treatment')?>">Thyroid Treatment</a>
+              <a class="mega-link" href="<?=base_url('disease/weight-loss-treatment')?>">Weight Loss Treatment</a>
             </div>
  
           </div><!-- /mega-menu -->

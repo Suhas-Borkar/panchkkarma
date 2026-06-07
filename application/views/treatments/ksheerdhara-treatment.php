@@ -2,10 +2,10 @@
     <section class="page-title" style="background-image: url(<?=base_url('uploads/')?>assets/images/bg/page-title-bg.jpg);">
       <div class="auto-container">
         <div class="title-outer text-center">
-          <h1 class="title">Hrudbasti Treatment</h1>
+          <h1 class="title">Ksheerdhara Treatment</h1>
           <ul class="page-breadcrumb">
             <li><a href="<?=base_url('')?>">Home</a></li>
-            <li>Hrudbasti Treatment</li>
+            <li>Ksheerdhara Treatment</li>
           </ul>
         </div>
       </div>
@@ -23,11 +23,12 @@
 
                 <div class="sidebar-service-list">
                   <ul>
-                    <li class="current"><a href="<?=base_url('treatments/hrudbasti-treatment')?>"><i class="fas fa-angle-right"></i><span>Hrudbasti Treatment</span></a></li>
-                    <li><a href="<?=base_url('treatments/anuvasana-basti-treatment')?>"><i class="fas fa-angle-right"></i><span>Anuvasana Basti</span></a></li>
-                    <li><a href="<?=base_url('treatments/greeva-basti-treatment')?>"><i class="fas fa-angle-right"></i><span>Greeva Basti</span></a></li>
-                    <li><a href="<?=base_url('treatments/dhum-paan-treatment')?>"><i class="fas fa-angle-right"></i><span>Dhum Paan</span></a></li>
-                    <li><a href="<?=base_url('treatments/agnikarma-treatment')?>"><i class="fas fa-angle-right"></i><span>Agnikarma Treatment</span></a></li>
+                    <li class="current"><a href="<?=base_url('treatments/ksheerdhara-treatment')?>"><i class="fas fa-angle-right"></i><span>Ksheerdhara</span></a></li>
+                    <li><a href="<?=base_url('treatments/shirodhara-treatment')?>"><i class="fas fa-angle-right"></i><span>Shirodhara</span></a></li>
+                    <li><a href="<?=base_url('treatments/takradhara-treatment')?>"><i class="fas fa-angle-right"></i><span>Takradhara</span></a></li>
+                    <li><a href="<?=base_url('treatments/thalam-treatment')?>"><i class="fas fa-angle-right"></i><span>Thalam</span></a></li>
+                    <li><a href="<?=base_url('treatments/shiro-abhyanga-treatment')?>"><i class="fas fa-angle-right"></i><span>Shiro Abhyanga</span></a></li>
+                    <li><a href="<?=base_url('treatments/nasya-treatment')?>"><i class="fas fa-angle-right"></i><span>Nasya</span></a></li>
                     <li><a href="<?=base_url('treatments/ayurvedic-consultation')?>"><i class="fas fa-angle-right"></i><span>Ayurvedic Consultation</span></a></li>
                   </ul>
                 </div>
@@ -59,69 +60,67 @@
           <!--Start Services Details Content-->
           <div class="col-xl-8 col-lg-8">
             <div class="services-details__content">
-              <img class="w-100" src="<?=base_url('uploads/')?>assets/images/resource/hrudbasti.jpg" alt="Hrudbasti Ayurvedic Heart Treatment at 6 Panchkarma & Wellness Center Mumbai">
+              <img class="w-100" src="<?=base_url('uploads/')?>assets/images/resource/ksheerdhara.jpg" alt="Ksheerdhara Ayurvedic forehead milk therapy">
 
               <h3 class="mt-4 mb-2">Service Overview</h3>
-              <p>Hrudbasti is a powerful Ayurvedic heart treatment that uses warm medicated oil retained over the chest region to nourish the heart, calm the nervous system, and support overall cardiovascular health. The word "Hrud" means heart and "Basti" means to hold or retain — making Hrudbasti literally a treatment that holds healing oil over the heart. This traditional Panchakarma therapy is highly effective for people suffering from chest tightness, stress-related heart discomfort, palpitations, and emotional imbalance. At 6 Panchkarma & Wellness Center, Hrudbasti is performed by experienced Ayurvedic doctors as part of a personalized cardiac wellness and stress relief program.</p>
+              <p>Ksheerdhara is an Ayurvedic head therapy in which warm medicated milk flows continuously over the forehead and scalp. The word "Ksheera" means milk and "Dhara" means flow, making Ksheerdhara a deeply calming therapy that nourishes the mind, soothes the nervous system, and supports hormonal and dosha balance.</p>
 
               <div class="content mt-40">
                 <div class="text">
 
-                  <h3 class="mb-2">What Is Hrudbasti Treatment?</h3>
-                  <p>Hrudbasti is an Ayurvedic chest therapy in which a dam made of black gram dough is placed over the heart region and filled with warm medicated oil. The oil is retained for a specific duration, allowing it to penetrate deeply into the cardiac tissues, nerves, and muscles of the chest. This Ayurvedic treatment for heart health helps balance Vata and Pitta dosha, strengthens the heart muscle, reduces stress-related tension, and promotes emotional stability. It is one of the most sought-after Ayurvedic therapies for chest pain, heart weakness, and anxiety-related cardiac complaints.</p>
+                  <h3 class="mb-2">What Is Ksheerdhara Treatment?</h3>
+                  <p>Ksheerdhara is a classical Ayurvedic therapy designed to pacify Vata and Pitta doshas while cooling the head and sensory organs. Medicated milk is prepared with calming herbs such as Brahmi, Bala, and Ashwagandha, then poured in a gentle, rhythmic stream over the forehead (Ajna Chakra) for about 30 to 40 minutes. This therapy is especially helpful for stress, insomnia, headache, hair fall, migraine, and thyroid-related imbalance.</p>
 
-                  <h3 class="mb-2 mt-4">Hrudbasti Procedure</h3>
+                  <h3 class="mb-2 mt-4">Ksheerdhara Procedure</h3>
                   <ul class="list-style-one mb-3">
-                    <li>The patient lies comfortably in a supine position on the treatment table.</li>
-                    <li>A gentle warm oil massage (Abhyanga) is performed on the chest and upper back to prepare the tissues and improve circulation.</li>
-                    <li>A dam (kund) is carefully constructed using black gram dough directly over the heart region (precordial area) and sealed to make it leak-proof.</li>
-                    <li>Warm medicated oil, selected according to the patient's condition and dosha, is slowly poured into the dam and retained over the heart area.</li>
-                    <li>The oil temperature is regularly monitored and maintained throughout the procedure. As the oil cools, it is replaced with fresh warm oil using cotton gauze.</li>
-                    <li>After the prescribed duration (typically 30 to 45 minutes), the dough dam is carefully removed and the chest area is gently massaged to enhance absorption.</li>
-                    <li>The patient is advised to rest for some time after the procedure and follow dietary guidelines recommended by the doctor.</li>
+                    <li>The patient lies comfortably on the treatment table with the head supported in a special vessel or pot.</li>
+                    <li>Brahmi oil or a soothing herbal oil is gently applied to the scalp and forehead to prepare the skin and nerves.</li>
+                    <li>Warm medicated milk is carefully poured in a steady, rhythmic stream over the forehead and scalp.</li>
+                    <li>The milk is continuously replenished to maintain warmth and allow the herbs to penetrate deeply.</li>
+                    <li>The patient rests quietly while the therapy calms the mind, relaxes the nervous system, and nourishes the sensory centers.</li>
+                    <li>After the session, the head is gently wiped and a mild oil may be reapplied. The patient is advised to rest and avoid direct sun, cold wind, and loud noise.</li>
                   </ul>
 
-                  <h3 class="mb-2 mt-4">How Hrudbasti Works in Ayurveda</h3>
-                  <p>In Ayurveda, the heart (Hrudaya) is considered the seat of consciousness, emotions, and Prana (life force). Imbalanced Vata dosha in the heart region leads to palpitations, anxiety, chest discomfort, and irregular heartbeat. Aggravated Pitta causes inflammation, burning sensation in the chest, and emotional anger. Hrudbasti works by delivering deeply penetrating medicated oils directly to the cardiac region, which pacifies Vata and Pitta, nourishes the heart muscle, calms the nervous system, improves blood circulation, and restores emotional equilibrium. The warmth of the oil combined with its herbal properties creates a synergistic effect that no oral medication can replicate.</p>
+                  <h3 class="mb-2 mt-4">How Ksheerdhara Works in Ayurveda</h3>
+                  <p>In Ayurveda, the forehead region is closely connected to the nervous system, mind, and higher perception. Continuous milk flow over the forehead cools and nourishes the brain, balances Vata and Pitta, and reduces excessive heat. The herbal milk acts as a carrier for medicinal herbs, bringing deep relaxation, improved sleep quality, emotional balance, and renewed clarity.</p>
 
-                  <h3 class="mb-2 mt-4">Hrudbasti Treatment at 6 Panchkarma & Wellness Center Mumbai</h3>
-                  <p>Firstly you must visit our <a href="<?=base_url('our-locations')?>" target="_blank" rel="noopener">Ayurvedic Wellness Center in Mumbai</a>. At 6 Panchkarma & Wellness Center, Hrudbasti begins with a comprehensive MD Ayurvedic doctor consultation to assess your cardiac health, stress levels, dosha imbalance, and overall constitution. The medicated oil is individually selected and prepared — commonly used oils include Bala Taila, Ksheerabala Taila, and Dhanvantaram Taila. The entire procedure is performed in a private, hygienic, and calm environment by trained therapists under expert supervision. The number of sessions and duration are customized to your specific health condition and wellness goals.</p>
+                  <h3 class="mb-2 mt-4">Ksheerdhara Treatment at 6 Panchkarma & Wellness Center Mumbai</h3>
+                  <p>At 6 Panchkarma & Wellness Center, Ksheerdhara begins with an Ayurvedic doctor consultation to assess your dosha profile, stress levels, sleep patterns, and overall condition. Medicated milk is prepared individually for your needs and the therapy is performed by experienced therapists in a calm, hygienic treatment room. The treatment plan may combine Ksheerdhara with Abhyanga, Shirodhara, or other supporting therapies for optimal results.</p>
 
-                  <h3 class="mb-2 mt-4">Conditions Where Hrudbasti Treatment Is Helpful</h3>
-                  <p>Hrudbasti Ayurvedic heart therapy is commonly advised for:</p>
+                  <h3 class="mb-2 mt-4">Conditions Where Ksheerdhara Is Helpful</h3>
+                  <p>Ksheerdhara is commonly recommended for:</p>
                   <ul class="list-style-one mb-3">
-                    <li>Chest pain and cardiac discomfort (non-emergency)</li>
-                    <li>Heart palpitations and irregular heartbeat</li>
-                    <li>Stress, anxiety, and emotional disturbances affecting the heart</li>
-                    <li>High blood pressure and hypertension management</li>
-                    <li>Post-cardiac recovery and cardiac rehabilitation</li>
-                    <li>Chronic fatigue and weakness of the heart</li>
-                    <li>Breathlessness and tightness in the chest</li>
-                    <li>Depression and grief-related cardiac symptoms</li>
+                    <li>Stress, anxiety, and mental fatigue</li>
+                    <li>Insomnia and disturbed sleep</li>
+                    <li>Migraine and recurrent headaches</li>
+                    <li>Hair fall and scalp weakness</li>
+                    <li>Thyroid imbalance and hormonal issues</li>
+                    <li>Eye strain and nervous tension</li>
+                    <li>Burning sensation, heat in the head, and Pitta disorders</li>
+                    <li>General emotional imbalance and irritability</li>
                   </ul>
-                  <p>Hrudbasti is often recommended as part of a complete Ayurvedic cardiac care and Panchakarma program for long-term heart health and emotional wellness.</p>
 
-                  <h3 class="mb-2 mt-4">Why Choose 6 Panchkarma & Wellness Center for Hrudbasti Therapy?</h3>
+                  <h3 class="mb-2 mt-4">Why Choose 6 Panchkarma & Wellness Center for Ksheerdhara?</h3>
                   <ul class="list-style-one mb-3">
-                    <li>Experienced MD Ayurvedic doctors specializing in cardiac wellness</li>
-                    <li>Individually prepared and authentic medicated oils</li>
-                    <li>Traditional Panchakarma protocols followed with precision</li>
-                    <li>Private, hygienic, and fully equipped therapy rooms</li>
-                    <li>Holistic treatment combining diet, lifestyle, and Ayurvedic therapy</li>
+                    <li>Experienced Ayurvedic doctors and trained therapists</li>
+                    <li>Authentic, individually prepared medicated milk formulas</li>
+                    <li>Traditional Panchakarma protocols with modern hygiene</li>
+                    <li>Private treatment rooms and calm wellness environment</li>
+                    <li>Holistic follow-up advice on diet, lifestyle, and sleep</li>
                   </ul>
-                  <blockquote class="blockquote-one">Every Hrudbasti session is thoughtfully planned after a free MD <a href="<?=base_url('appointments')?>" target="_blank" rel="noopener">Ayurvedic doctor consultation</a>, taking into account your cardiac health, body type, stress levels, and overall wellness goals.</blockquote>
+                  <blockquote class="blockquote-one">Every Ksheerdhara treatment is recommended after a personalized Ayurvedic consultation, ensuring the therapy is safe, effective, and aligned with your wellness goals.</blockquote>
 
                 </div>
 
                 <div class="feature-list mt-4">
                   <div class="row clearfix">
                     <div class="col-lg-6 col-md-6 col-sm-12 column">
-                      <img class="mb-3 w-100" src="<?=base_url('uploads/')?>assets/images/resource/service-d1.jpg" alt="Hrudbasti heart therapy procedure" />
-                      <p>Warm medicated oil retained over the heart deeply nourishes cardiac tissues, calms the nervous system, and relieves stress-related chest discomfort naturally.</p>
+                      <img class="mb-3 w-100" src="<?=base_url('uploads/')?>assets/images/resource/service-d1.jpg" alt="Ksheerdhara Ayurvedic milk stream therapy" />
+                      <p>Ksheerdhara gently cools and calms the mind through a continuous stream of medicated milk on the forehead.</p>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12 column">
-                      <img class="mb-3 w-100" src="<?=base_url('uploads/')?>assets/images/resource/service-d2.jpg" alt="Hrudbasti Ayurvedic cardiac treatment" />
-                      <p>A traditional Ayurvedic cardiac therapy customized to your dosha and safely performed by experienced MD doctors at 6 Panchkarma & Wellness Center.</p>
+                      <img class="mb-3 w-100" src="<?=base_url('uploads/')?>assets/images/resource/service-d2.jpg" alt="Ayurvedic head therapy for stress and insomnia" />
+                      <p>This therapy supports stress relief, improved sleep, and emotional balance when performed by experienced therapists.</p>
                     </div>
                   </div>
                 </div>
@@ -136,44 +135,37 @@
 
                     <div class="col-lg-2 col-md-4 col-sm-4 col-6 text-center mb-4">
                       <div style="width:90px; height:90px; border-radius:50%; background:#e8e8e8; display:flex; align-items:center; justify-content:center; margin:0 auto 14px;">
-                        <img src="<?=base_url('uploads/')?>assets/images/icons/benefit-heart.png" alt="Strengthens Heart" style="width:48px; height:48px; object-fit:contain;">
+                        <img src="<?=base_url('uploads/')?>assets/images/icons/benefit-hair.png" alt="Reduces Hair Fall" style="width:48px; height:48px; object-fit:contain;">
                       </div>
-                      <p style="font-weight:600; font-size:13.5px; color:#222; margin:0;">Strengthens Heart</p>
+                      <p style="font-weight:600; font-size:13.5px; color:#222; margin:0;">Reduces Hair Fall</p>
                     </div>
 
                     <div class="col-lg-2 col-md-4 col-sm-4 col-6 text-center mb-4">
                       <div style="width:90px; height:90px; border-radius:50%; background:#e8e8e8; display:flex; align-items:center; justify-content:center; margin:0 auto 14px;">
-                        <img src="<?=base_url('uploads/')?>assets/images/icons/benefit-stress.png" alt="Reduces Stress & Anxiety" style="width:48px; height:48px; object-fit:contain;">
+                        <img src="<?=base_url('uploads/')?>assets/images/icons/benefit-migraine.png" alt="Reduces Migraine" style="width:48px; height:48px; object-fit:contain;">
                       </div>
-                      <p style="font-weight:600; font-size:13.5px; color:#222; margin:0;">Reduces Stress &amp; Anxiety</p>
+                      <p style="font-weight:600; font-size:13.5px; color:#222; margin:0;">Reduces Migraine</p>
                     </div>
 
                     <div class="col-lg-2 col-md-4 col-sm-4 col-6 text-center mb-4">
                       <div style="width:90px; height:90px; border-radius:50%; background:#e8e8e8; display:flex; align-items:center; justify-content:center; margin:0 auto 14px;">
-                        <img src="<?=base_url('uploads/')?>assets/images/icons/benefit-palpitation.png" alt="Controls Palpitations" style="width:48px; height:48px; object-fit:contain;">
+                        <img src="<?=base_url('uploads/')?>assets/images/icons/benefit-stress.png" alt="Reduces Stress" style="width:48px; height:48px; object-fit:contain;">
                       </div>
-                      <p style="font-weight:600; font-size:13.5px; color:#222; margin:0;">Controls Palpitations</p>
+                      <p style="font-weight:600; font-size:13.5px; color:#222; margin:0;">Reduces Stress</p>
                     </div>
 
                     <div class="col-lg-2 col-md-4 col-sm-4 col-6 text-center mb-4">
                       <div style="width:90px; height:90px; border-radius:50%; background:#e8e8e8; display:flex; align-items:center; justify-content:center; margin:0 auto 14px;">
-                        <img src="<?=base_url('uploads/')?>assets/images/icons/benefit-bp.png" alt="Manages Blood Pressure" style="width:48px; height:48px; object-fit:contain;">
+                        <img src="<?=base_url('uploads/')?>assets/images/icons/benefit-thyroid.png" alt="Manages Thyroid" style="width:48px; height:48px; object-fit:contain;">
                       </div>
-                      <p style="font-weight:600; font-size:13.5px; color:#222; margin:0;">Manages Blood Pressure</p>
+                      <p style="font-weight:600; font-size:13.5px; color:#222; margin:0;">Manages Thyroid</p>
                     </div>
 
                     <div class="col-lg-2 col-md-4 col-sm-4 col-6 text-center mb-4">
                       <div style="width:90px; height:90px; border-radius:50%; background:#e8e8e8; display:flex; align-items:center; justify-content:center; margin:0 auto 14px;">
-                        <img src="<?=base_url('uploads/')?>assets/images/icons/benefit-circulation.png" alt="Improves Circulation" style="width:48px; height:48px; object-fit:contain;">
+                        <img src="<?=base_url('uploads/')?>assets/images/icons/benefit-sleep.png" alt="Improves Sleep" style="width:48px; height:48px; object-fit:contain;">
                       </div>
-                      <p style="font-weight:600; font-size:13.5px; color:#222; margin:0;">Improves Circulation</p>
-                    </div>
-
-                    <div class="col-lg-2 col-md-4 col-sm-4 col-6 text-center mb-4">
-                      <div style="width:90px; height:90px; border-radius:50%; background:#e8e8e8; display:flex; align-items:center; justify-content:center; margin:0 auto 14px;">
-                        <img src="<?=base_url('uploads/')?>assets/images/icons/benefit-emotional.png" alt="Emotional Stability" style="width:48px; height:48px; object-fit:contain;">
-                      </div>
-                      <p style="font-weight:600; font-size:13.5px; color:#222; margin:0;">Emotional Stability</p>
+                      <p style="font-weight:600; font-size:13.5px; color:#222; margin:0;">Improves Sleep</p>
                     </div>
 
                   </div>
@@ -182,60 +174,60 @@
 
               <div class="mt-25">
                 <h3 class="mb-3">Frequently Asked Question</h3>
-                <p class="mb-20">Find answers to the most common questions about Hrudbasti Ayurvedic heart treatment below.</p>
+                <p class="mb-20">Find answers to the most common questions about Ksheerdhara Ayurvedic therapy below.</p>
                 <ul class="accordion-box wow fadeInRight">
                   <!--Block-->
                   <li class="accordion block">
-                    <div class="acc-btn">Is Hrudbasti safe for heart patients?
+                    <div class="acc-btn">Is Ksheerdhara safe for everyone?
                       <div class="icon fa fa-plus"></div>
                     </div>
                     <div class="acc-content">
                       <div class="content">
-                        <div class="text">Hrudbasti is safe when performed by qualified MD Ayurvedic doctors after a thorough health assessment. It is particularly beneficial for stress-related cardiac complaints, mild hypertension, and post-cardiac recovery. However, patients with acute cardiac emergencies or severe conditions must first consult their cardiologist before undergoing this therapy.</div>
+                        <div class="text">Ksheerdhara is generally safe when performed by trained Ayurvedic therapists and prescribed by an Ayurvedic doctor. People with acute fever, open scalp wounds, or serious neurological conditions should consult their physician before treatment.</div>
                       </div>
                     </div>
                   </li>
                   <!--Block-->
                   <li class="accordion block">
-                    <div class="acc-btn">How many Hrudbasti sessions are required to see results?
+                    <div class="acc-btn">How many sessions are required to see results?
                       <div class="icon fa fa-plus"></div>
                     </div>
                     <div class="acc-content">
                       <div class="content">
-                        <div class="text">Most patients begin to feel reduced chest tightness, better sleep, and improved emotional calmness within 5 to 7 sessions. For chronic conditions such as hypertension or post-cardiac recovery, a course of 14 to 21 days is generally recommended as part of a complete Panchakarma program.</div>
+                        <div class="text">Most clients feel relaxation and improved sleep after the first session. A full course of 7 to 14 sessions is recommended for lasting benefits against stress, insomnia, hair fall, and thyroid imbalance.</div>
                       </div>
                     </div>
                   </li>
                   <!--Block-->
                   <li class="accordion block">
-                    <div class="acc-btn">What medicated oils are used in Hrudbasti?
+                    <div class="acc-btn">What medicated milk is used in Ksheerdhara?
                       <div class="icon fa fa-plus"></div>
                     </div>
                     <div class="acc-content">
                       <div class="content">
-                        <div class="text">The choice of medicated oil depends on your dosha imbalance and specific condition. Commonly used oils include Bala Taila, Ksheerabala Taila, Dhanvantaram Taila, and Sahacharadi Taila. Your Ayurvedic doctor will select the most suitable oil after a detailed consultation and pulse diagnosis.</div>
+                        <div class="text">Medicated milk is prepared with cooling herbs such as Brahmi, Bala, Ashwagandha, and Shatavari based on your dosha and condition. The exact formulation is selected by the Ayurvedic doctor after consultation.</div>
                       </div>
                     </div>
                   </li>
                   <!--Block-->
                   <li class="accordion block">
-                    <div class="acc-btn">Can Hrudbasti help reduce stress and anxiety?
+                    <div class="acc-btn">Can Ksheerdhara help reduce stress and anxiety?
                       <div class="icon fa fa-plus"></div>
                     </div>
                     <div class="acc-content">
                       <div class="content">
-                        <div class="text">Yes, Hrudbasti is one of the most effective Ayurvedic therapies for stress, anxiety, and emotional imbalance. The warm medicated oil retained over the heart deeply calms the nervous system, balances Vata dosha, and promotes a profound sense of emotional peace and stability — often from the very first session.</div>
+                        <div class="text">Yes. The steady flow of warm medicated milk over the forehead calms the nervous system, soothes the mind, and helps relieve stress, anxiety, and mental fatigue.</div>
                       </div>
                     </div>
                   </li>
                   <!--Block-->
                   <li class="accordion block">
-                    <div class="acc-btn">Who should avoid Hrudbasti treatment?
+                    <div class="acc-btn">Who should avoid Ksheerdhara treatment?
                       <div class="icon fa fa-plus"></div>
                     </div>
                     <div class="acc-content">
                       <div class="content">
-                        <div class="text">Hrudbasti is not recommended for individuals with acute heart attack, severe heart failure, open wounds or skin infections on the chest, high fever, or pregnancy without medical clearance. A detailed Ayurvedic consultation is always conducted before starting the therapy to confirm its suitability for your condition.</div>
+                        <div class="text">Ksheerdhara should be avoided during acute fever, open scalp wounds, severe migraines, or immediately after head injury. A detailed Ayurvedic consultation will determine whether the therapy is right for you.</div>
                       </div>
                     </div>
                   </li>

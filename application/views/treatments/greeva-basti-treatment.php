@@ -24,10 +24,13 @@
                 <div class="sidebar-service-list">
                   <ul>
                     <li class="current"><a href="<?=base_url('treatments/greeva-basti-treatment')?>"><i class="fas fa-angle-right"></i><span>Greeva Basti</span></a></li>
-                    <li><a href="<?=base_url('treatments/dhum-paan-treatment')?>"><i class="fas fa-angle-right"></i><span>Dhum Paan</span></a></li>
-                    <li><a href="<?=base_url('treatments/agnikarma-treatment')?>"><i class="fas fa-angle-right"></i><span>Agnikarma Treatment</span></a></li>
-                    <li><a href="<?=base_url('treatments/panchakarma-treatment')?>"><i class="fas fa-angle-right"></i><span>Panchakarma Therapy</span></a></li>
-                    <li><a href="<?=base_url('treatments/abhyanga-massage')?>"><i class="fas fa-angle-right"></i><span>Abhyanga Massage</span></a></li>
+                    <li><a href="<?=base_url('treatments/anuvasana-basti-treatment')?>"><i class="fas fa-angle-right"></i><span>Anuvasana Basti</span></a></li>
+                    <li><a href="<?=base_url('treatments/hrudbasti-treatment')?>"><i class="fas fa-angle-right"></i><span>Hrudbasti</span></a></li>
+                    <li><a href="<?=base_url('treatments/janu-basti-treatment')?>"><i class="fas fa-angle-right"></i><span>Janu Basti</span></a></li>
+                    <li><a href="<?=base_url('treatments/kati-basti-treatment')?>"><i class="fas fa-angle-right"></i><span>Kati Basti</span></a></li>
+                    <li><a href="<?=base_url('treatments/lekhan-basti-treatment')?>"><i class="fas fa-angle-right"></i><span>Lekhan Basti</span></a></li>
+                    <li><a href="<?=base_url('treatments/niruha-basti-treatment')?>"><i class="fas fa-angle-right"></i><span>Niruha Basti</span></a></li>
+                    <li><a href="<?=base_url('treatments/pristha-basti-treatment')?>"><i class="fas fa-angle-right"></i><span>Pristha Basti</span></a></li>
                     <li><a href="<?=base_url('treatments/ayurvedic-consultation')?>"><i class="fas fa-angle-right"></i><span>Ayurvedic Consultation</span></a></li>
                   </ul>
                 </div>

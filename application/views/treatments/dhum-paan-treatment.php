@@ -24,11 +24,11 @@
                 <div class="sidebar-service-list">
                   <ul>
                     <li class="current"><a href="<?=base_url('treatments/dhum-paan-treatment')?>"><i class="fas fa-angle-right"></i><span>Dhum Paan</span></a></li>
-                    <li><a href="<?=base_url('treatments/agnikarma-treatment')?>"><i class="fas fa-angle-right"></i><span>Agnikarma Treatment</span></a></li>
-                    <li><a href="page-service-details.html"><i class="fas fa-angle-right"></i><span>Panchakarma Therapy</span></a></li>
-                    <li><a href="page-service-details.html"><i class="fas fa-angle-right"></i><span>Abhyanga Massage</span></a></li>
-                    <li><a href="page-service-details.html"><i class="fas fa-angle-right"></i><span>Shirodhara</span></a></li>
-                    <li><a href="page-service-details.html"><i class="fas fa-angle-right"></i><span>Ayurvedic Consultation</span></a></li>
+                    <li><a href="<?=base_url('treatments/nasya-treatment')?>"><i class="fas fa-angle-right"></i><span>Nasya</span></a></li>
+                    <li><a href="<?=base_url('treatments/vaman-treatment')?>"><i class="fas fa-angle-right"></i><span>Vaman</span></a></li>
+                    <li><a href="<?=base_url('treatments/virechan-treatment')?>"><i class="fas fa-angle-right"></i><span>Virechan</span></a></li>
+                    <li><a href="<?=base_url('treatments/agnikarma-treatment')?>"><i class="fas fa-angle-right"></i><span>Agnikarma</span></a></li>
+                    <li><a href="<?=base_url('treatments/ayurvedic-consultation')?>"><i class="fas fa-angle-right"></i><span>Ayurvedic Consultation</span></a></li>
                   </ul>
                 </div>
 

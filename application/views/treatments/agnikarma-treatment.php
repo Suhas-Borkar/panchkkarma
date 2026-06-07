@@ -23,11 +23,11 @@
 
                 <div class="sidebar-service-list">
                   <ul>
-                    <li class="current"><a href="<?=base_url('treatments/agnikarma-treatment')?>"><i class="fas fa-angle-right"></i><span>Agnikarma Treatment</span></a></li>
-                    <li><a href="<?=base_url('treatments/panchakarma-treatment')?>"><i class="fas fa-angle-right"></i><span>Panchakarma Therapy</span></a></li>
-                    <li><a href="<?=base_url('treatments/abhyanga-massage')?>"><i class="fas fa-angle-right"></i><span>Abhyanga Massage</span></a></li>
-                    <li><a href="<?=base_url('treatments/shirodhara-treatment')?>"><i class="fas fa-angle-right"></i><span>Shirodhara</span></a></li>
-                    <li><a href="<?=base_url('treatments/kati-basti-treatment')?>"><i class="fas fa-angle-right"></i><span>Kati Basti</span></a></li>
+                    <li class="current"><a href="<?=base_url('treatments/agnikarma-treatment')?>"><i class="fas fa-angle-right"></i><span>Agnikarma</span></a></li>
+                    <li><a href="<?=base_url('treatments/raktmokashana-treatment')?>"><i class="fas fa-angle-right"></i><span>Raktmokshana (Leech Therapy)</span></a></li>
+                    <li><a href="<?=base_url('treatments/siravedh-treatment')?>"><i class="fas fa-angle-right"></i><span>Raktmokshana (Siravedh)</span></a></li>
+                    <li><a href="<?=base_url('treatments/vaman-treatment')?>"><i class="fas fa-angle-right"></i><span>Vaman</span></a></li>
+                    <li><a href="<?=base_url('treatments/virechan-treatment')?>"><i class="fas fa-angle-right"></i><span>Virechan</span></a></li>
                     <li><a href="<?=base_url('treatments/ayurvedic-consultation')?>"><i class="fas fa-angle-right"></i><span>Ayurvedic Consultation</span></a></li>
                   </ul>
                 </div>
